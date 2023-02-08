@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mv /tmp/temp /tmp/my_first_directory
